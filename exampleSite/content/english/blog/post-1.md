@@ -19,7 +19,7 @@ Apple has long used computer vision to inspect display front-of-screen and the i
 
 ![](/images/fosworkflow.png)
 
-                                        _Current inspection workflow_
+_Current inspection workflow_
 
 To tackle above challenges, AI/ML China Team partnered with Display Hardware Testing Engineering Team (HWTE), and successfully delivered machine learning solutions to transform the subjective test to a smarter and more autonomous way.
 
