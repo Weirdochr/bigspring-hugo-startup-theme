@@ -1,7 +1,7 @@
 ---
 title: Machine Learning in Display Front-of-screen (FOS) Inspection
 date: '2020-04-18T10:07:21.000+06:00'
-image: images/blog/post-1.jpg
+image: "/images/mlfosworkflow.png"
 type: featured
 description: This is meta description
 subtitle: Display defect detection through machine learning image recognition
