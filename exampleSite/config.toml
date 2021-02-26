@@ -72,11 +72,11 @@ name = "Contact"
 url = "contact"
 weight = 3
 [[menu.main]]
-name = "Case Studies"
+name = "Work With Us"
 url = "pricing"
 weight = 2
 [[menu.main]]
-name = "Work With Us"
+name = "Case Studies"
 url = "blog"
 weight = 1
 [params]
