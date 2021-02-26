@@ -4,6 +4,7 @@ date: '2020-04-18T10:07:21.000+06:00'
 image: images/blog/post-1.jpg
 type: featured
 description: This is meta description
+subtitle: Display defect detection through machine learning image recognition
 
 ---
 Display front-of-screen is a very key component of devices like iPhone, iPad, etc, as users spend an inordinate amount of time staring at and interact with every day. The quality of display front-of-screen will dramatically affect users’ experience, which we value the most at Apple. For each new product release, Apple will innovate its display to deliver an optimal viewing experience. In order to deliver the high-quality display front-of-screen, it involves numerous effects from initial design to production and quality control process.
