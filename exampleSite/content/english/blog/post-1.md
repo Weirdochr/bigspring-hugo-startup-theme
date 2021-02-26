@@ -6,8 +6,6 @@ type: featured
 description: This is meta description
 
 ---
-## Machine Learning in Display Front-of-screen (FOS) Inspection
-
 Display front-of-screen is a very key component of devices like iPhone, iPad, etc, as users spend an inordinate amount of time staring at and interact with every day. The quality of display front-of-screen will dramatically affect users’ experience, which we value the most at Apple. For each new product release, Apple will innovate its display to deliver an optimal viewing experience. In order to deliver the high-quality display front-of-screen, it involves numerous effects from initial design to production and quality control process.
 
 ### ![Display front-of-screen inspection from module vendor to assembly line](/images/2020-07-15-4-52-57-2.png "Display front-of-screen inspection from module vendor to assembly line")
